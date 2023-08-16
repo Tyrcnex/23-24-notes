@@ -2,7 +2,7 @@ Date: 08-16-2023
 
 ## Vertical asymptote
 
-$f(x)$ has a vertical asymptote at $x=a$ if $$\lim_{x\to a^{-}}f(x) \text{ or } \lim_{x\to a^{+}}f(x)=\pm\infty$$
+$f(x)$ has a vertical asymptote at $x=a$ if $$\left|\lim_{x\to a^{-}}f(x)\right| \text{ or } \left|\lim_{x\to a^{+}}f(x)\right|=\infty$$
 In informal terms, if you trace your fingers along the function from both sides approaching this x-value, and at least one finger goes up or down to infinity, that is a vertical asymptote.
 ## Horizontal asymptote
 
