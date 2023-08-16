@@ -1,4 +1,5 @@
-![[./pic.png]]
+[Worksheet](./pic.png)
+![[pic.png]]
 
 1. $39.948\text{ grams of Ar}$
 2. $196.97\text{ grams of Au}$
