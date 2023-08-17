@@ -12,17 +12,17 @@
 
 ## Part 2
 
-1. $40.078\times3.28=131$
-2. $32.065\times5.39=173$
-3. $4.98 \div 107.87=0.0462$
-4. $303 \div 24.305=12.5$
+1. $40.078\text{(Ca)}\times3.28\text{ mol}=131\text{ grams Ca}$
+2. $32.065\text{(S)}\times5.39\text{ mol}=173\text{ grams S}$
+3. $4.98\text{(Ag)} \div 107.87\text{ mol}=0.0462\text{ moles Ag}$
+4. $303\text{(Mg)} \div 24.305\text{ mol}=12.5\text{ moles Mg}$
 
 ## Part 3
 
-1. $34.69\times N_A=2.09\times10^{25}$
-2. $0.529\times N_A=3.19\times10^{23}$
-3. $4.09\times 10^{24} \div N_A=6.79$
-4. $5.88\times 10^{19} \div N_A=9.76\times10^{-5}$
+1. $34.69 \text{ mol}\times N_A \text{ atoms/mol} = 2.09\times10^{25}\text{ atoms Mg}$
+2. $0.529\text{ mol}\times N_A \text{ atoms/mol}=3.19\times10^{23}\text{ atoms Li}$
+3. $4.09\times 10^{24} \text{ atoms}\div N_A \text{ atoms/mol}=6.79 \text{ moles Mn}$
+4. $5.88\times 10^{19} \text{ atoms}\div N_A \text{ atoms/mol}=9.76\times10^{-5} \text{ moles Ni}$
 
 ## Part 4
 
@@ -38,3 +38,4 @@
 2. Formula: $$242\textcolor{red}{\cancel{\text{g }C_6H_{12}O_6}}\cdot\left(\frac{\textcolor{blue}{\cancel{1\text{ mol }C_6H_{12}O_6}}}{12.011\times6+1.0078\times12+16\times6\textcolor{red}{\cancel{\text{ g }C_6H_{12}O_6}}}\right)\left(\frac{12\textcolor{purple}{\cancel{\text{ mol H}}}}{\textcolor{blue}{\cancel{1\text{ mol }C_6H_{12}O_6}}}\right)\left(\frac{6.022\times10^{23}\text{ atoms H}}{\textcolor{purple}{\cancel{1\text{ mol H}}}}\right)$$ $$=\frac{242\times12\times6.022\times10^{23}}{180.1596}\approx9.71\times10^{24}\text{ atoms of H}$$
 3. Formula: $$18.02\textcolor{red}{\cancel{\text{g }H_2O}}\cdot\left(\frac{\textcolor{blue}{\cancel{1\text{ mol }H_2O}}}{1.0078\times2+16\times1\textcolor{red}{\cancel{\text{ g }H_2O}}}\right)\left(\frac{2\textcolor{purple}{\cancel{\text{ mol H}}}}{\textcolor{blue}{\cancel{1\text{ mol }H_2O}}}\right)\left(\frac{6.022\times10^{23}\text{ atoms H}}{\textcolor{purple}{\cancel{1\text{ mol H}}}}\right)$$ $$=\frac{18.02\times2\times6.022\times10^{23}}{18.0156}\approx1.20\times10^{24}\text{ atoms of H}$$
 4. Formula: $$92.8\textcolor{red}{\cancel{\text{g NaOH}}}\cdot\left(\frac{\textcolor{blue}{\cancel{1\text{ mol NaOH}}}}{22.990\times1+16\times1+1.0078\times1\textcolor{red}{\cancel{\text{ g NaOH}}}}\right)\left(\frac{\textcolor{purple}{\cancel{1 \text{ mol H}}}}{\textcolor{blue}{\cancel{1\text{ mol NaOH}}}}\right)\left(\frac{6.022\times10^{23}\text{ atoms H}}{\textcolor{purple}{\cancel{1\text{ mol H}}}}\right)$$ $$=\frac{92.8\times6.022\times10^{23}}{39.9978}\approx1.40\times10^{24}\text{ atoms of H}$$
+5. Formula: $$248.92\textcolor{red}{\cancel{\text{g }H_2SO_4}}\cdot\left(\frac{\textcolor{blue}{\cancel{1\text{ mol }H_2SO_4}}}{22.990\times1+16\times1+1.0078\times1\textcolor{red}{\cancel{\text{ g }H_2SO_4}}}\right)\left(\frac{2\textcolor{purple}{\cancel{\text{ mol H}}}}{\textcolor{blue}{\cancel{1\text{ mol }H_2SO_4}}}\right)\left(\frac{6.022\times10^{23}\text{ atoms H}}{\textcolor{purple}{\cancel{1\text{ mol H}}}}\right)$$ $$=\frac{248.92\times2\times6.022\times10^{23}}{98.0806}\approx3.06\times10^{24}\text{ atoms of H}$$
