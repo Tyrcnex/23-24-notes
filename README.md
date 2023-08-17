@@ -23,7 +23,7 @@ I do not take every course in the school. I also don't take notes in every singl
 - Art Foundation
 ## What are those weird dollar signs and code thingies in the notes?
 
-![[./img.png]]
+![img.png](./img.png "Dollar signs? Math?? Latex???")
 
 For some reason, Github markdown doesn't use certain important LaTeX packages such as `amsmath`, and it's pretty limited. I take my notes in Obsidian with a very nice LaTeX renderer. When ported to Github, the math notation may render wrong and unformat the rest of the content. If so, I apologize. I hope this only happens in the Calc BC notes, which is the course that you guys probably aren't in.
 
