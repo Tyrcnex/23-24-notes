@@ -8,11 +8,11 @@ This repository is a collection of my notes that will update throughout the year
 
 Go to the [course-notes](https://github.com/Tyrcnex/23-24-notes/tree/main/course-notes) folder and find the notes on the subject you need. Generally, the folders will have an "assignments" and "notes" section. Click into the notes section to get my notes. Some of them have a date, some of them don't.
 
-## Why didn't you take notes on this?
+## Why didn't you take notes on \[insert something here\]?
 
 I may not be able to take notes every single lesson, but I will try my best to. If you DID take notes that day, could you send them to me? You can contact me on Discord: my username is **tyrcnex**.
 
-## My course isn't here!
+## My course notes aren't here!
 
 I do not take every course in the school. I also don't take notes in every single course I'm in. The courses I'm in, sorted by my own perception of difficulty, is:
 - AP Seminar
