@@ -6,7 +6,9 @@ This repository is a collection of my notes that will update throughout the year
 
 ## Alright, how do I find the notes?
 
-Go to the [course-notes](https://github.com/Tyrcnex/23-24-notes/tree/main/course-notes) folder and find the notes on the subject you need. Generally, the folders will have an "assignments" and "notes" section. Click into the notes section to get my notes. Some of them have a date, some of them don't. For example, [here is the assignments section](https://github.com/Tyrcnex/23-24-notes/tree/main/course-notes/chemistry/assignments) for chemistry, and [here is the notes section for chemistry](https://github.com/Tyrcnex/23-24-notes/tree/main/course-notes/chemistry/notes).
+Go to the [course-notes](https://github.com/Tyrcnex/23-24-notes/tree/main/course-notes) folder and find the notes on the subject you need. Generally, the folders will have an "assignments" and "notes" section. Click into the notes section to get my notes. Some of them have a date, some of them don't. For example, ~~here is the assignments section for chemistry~~, and [here is the notes section for chemistry](https://github.com/Tyrcnex/23-24-notes/tree/main/course-notes/chemistry/notes).
+
+EDIT Aug 19 2023: I'm removing the assignments folder, just in case something like last year's incident happens again. I'm sure notes are fine, so I'll still post my notes here.
 
 ## Why didn't you take notes on \[insert something here\]?
 
