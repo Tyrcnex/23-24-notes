@@ -12,4 +12,4 @@ todo
 # course-notes/CourseName
 
 # EDIT Aug 18 2023: I'm removing the assignments folder to be safe
-course-notes
+course-notes/*/assignments
