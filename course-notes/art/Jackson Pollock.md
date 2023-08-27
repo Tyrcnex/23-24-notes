@@ -1,0 +1,7 @@
+- Paul Jackson Pollock was boring in Wyoming on January 28, 1912. He was the youngest of five sons born to Stella May McClure and LeRoy Pollock.
+- He was in an Irish-Scottish family, and his family moved to San Diego when he was 10 months old.
+- The family moved around frequently as his father worked as a surveyor.
+- He spent most of his childhood
+- He had a tough childhood but he loved nature - "animals and the expanse of the land".
+- When he lived in Phoenix, he discovered Native American Art.
+- 
