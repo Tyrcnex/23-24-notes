@@ -40,3 +40,5 @@ Early Artistic Career:
 
 His art style and artworks:
 - We can take a look into his early art style in his artwork Going West. It can be considered a form of visionary art, as it takes a somewhat real scenario and adds swirling forms that increases the emotional intensity.
+- We see in 1943 that Pollock starts experimenting with his famous drip technique. 
+- We can see in 1943
