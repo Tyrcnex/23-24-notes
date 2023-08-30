@@ -1,0 +1,13 @@
+- [x] (Chapter 1, p.12) Subjects and verbs and Subject pronouns
+- [ ] ~~(Chapter 1, p.24) Indefinite Articles and plural of nouns - (except this topic as Viktor will present it next week)~~
+- [x] (Chapter 1, p.26) The verbe avoir and Negation
+- [x] (Chapter 2, p.44) Definite Articles
+- [x] (Chapter 2, p.46) Present Tense ER Verbs
+- [x] (Chapter 2, p.56) + (Chapter 3, p.96) Contractions with À and DE
+- [x] (Chapter 3, p.82) + (Chapter 1, p.26) Etre and Avoir in Present Tense
+- [x] (Chapter 3, p.84) Adjective Agreement
+- [x] (Chapter 3, p.94) Possessive Adjectives
+- [x] (Chapter 4, p.116) Present Tense RE Verbs
+- [x] (Chapter 4, p.128) Préferer and Acheter + other verbs with accent rules
+- [ ] *(Chapter 5, p.154) Question Words + Asking questions in French*
+- [x] *(Chapter 6, p.188) Present Tense IR Verbs*
