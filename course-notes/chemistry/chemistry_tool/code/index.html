@@ -6,9 +6,17 @@
     <title>Chemistry Parser</title>
 </head>
 <body>
-    <textarea id="chemistryInput"></textarea>
+    <h1>Chemistry Parser (WIP)</h1>
+    <desc>Select your output:</desc>
+    <select id="dataSelect">
+        <option value="data_structure">Default (show data structure)</option>
+        <option value="count">Count the amount of each atom</option>
+        <option value="atomic_mass">Get the atomic mass</option>
+    </select>
+    <br><br>
+    <desc style="font-family: monospace;">Input:  .</desc><textarea id="chemistryInput"></textarea>
     <br>
-    <textarea id="output" style="height: 600px; width: 600px;"></textarea>
+    <desc style="font-family: monospace;">Output:.</desc><textarea id="output" style="height: 600px; width: 600px;"></textarea>
 
     <script src="./classes/Atom.js"></script>
     <script src="./classes/Equation.js"></script>
