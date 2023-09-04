@@ -1,7 +1,7 @@
 class Tokenizer {
     matchers = {
         paren: '\\(',
-        closeParen: '^\\)',
+        closeParen: '\\)',
         combinator: '\\+',
         number: '[0-9]+',
         symbol: '[A-Z][a-z]*',
@@ -29,9 +29,9 @@ class Tokenizer {
         while (str.length) {
             let token = {};
             for (const key in this.matchers) {
-                let match = str.match(this.matchers[key]);
+                let match = str.match('^'+this.matchers[key]);
                 if (match) {
-                    token = { type: key, value: match };
+                    token = { type: key, value: match[0] };
                     break;
                 }
             }

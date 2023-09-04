@@ -1,6 +1,7 @@
 class Molecule {
     constructor(particle, number) {
-        this.particles = particle ? [particle] : [];
+        if (particle) this.particles = particle.constructor === Array ? particle : [particle];
+        else this.particles = [];
         this.number = isNaN(number) ? 1 : parseInt(number);
     }
     className() { return "Molecule" }
@@ -35,5 +36,8 @@ class Molecule {
     }
     simplify() {
         return this.number === 1 && this.particles.length === 1 ? this.particles[0] : this;
+    }
+    getMolarMass() {
+        return Object.entries(this.count()).map(c => (new Atom(...c)).getAtomicMass()).reduce((a,b)=>(a+b));
     }
 }

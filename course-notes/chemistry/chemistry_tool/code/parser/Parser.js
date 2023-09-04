@@ -28,7 +28,7 @@ class Parser {
                 case "paren": {
                     this.tokenizer.consume();
                     let particle = this.parse(nest + 1);
-                    this.tokenizer.expect(")");
+                    this.tokenizer.expect("closeParen");
                     let number = this.number();
                     molecule.addParticle(particle, number);
                     break;
@@ -43,7 +43,7 @@ class Parser {
                 }
                 default: {
                     equation.addTerm(molecule);
-                    if (equation.terms.length === 1) return equation.terms[0];
+                    if (equation.terms.length === 1) return equation.terms[0].simplify();
                     else return equation;
                 }
             }
