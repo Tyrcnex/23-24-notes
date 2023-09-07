@@ -30,7 +30,7 @@ I may not be able to take notes every single lesson, but I will try my best to. 
 
 For some reason, Github markdown sometimes renders my math formulas wrong. If so, I apologize. I hope this only happens in the Calc BC notes, which is the course that you guys probably aren't in.
 
-Though, some of you are probably going to take Calc AB/BC next year, so you could perhaps use my notes as a little preview of what you're going to learn next year!
+Though, some of you are probably going to take Calc AB/BC next year, so you could perhaps use my notes as a little preview of what you're going to learn next year! (even though the rendering might be a bit strange)
 
 ---
 
