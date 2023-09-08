@@ -26,7 +26,7 @@ Most of my notes are probably going to be in AP Calc BC and Pre-AP Chemistry, bu
 I may not be able to take notes every single lesson, but I will try my best to. If you DID take notes that day, could you send them to me? You can contact me on Discord: my username is **tyrcnex**.
 ## What are those weird dollar signs and strange symbols in the notes?
 
-![img.png](./img.png "Dollar signs? Math?? Latex???")
+![latex](./img.png "Dollar signs? Math?? Latex???")
 
 For some reason, Github markdown sometimes renders my math formulas wrong. If so, I apologize. I hope this only happens in the Calc BC notes, which is the course that you guys probably aren't in.
 
