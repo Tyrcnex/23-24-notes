@@ -20,8 +20,7 @@ Here is a picture showing wavelength and amplitude. ![wavelength and amplitude](
 Think about it like this: The wave starts appearing from the left, moving up and and down as it moves to the right. After one second, how many hills are there?
 
 > The **speed** of a wave is a relationship between wavelength and frequency. The formula is as follows: $$\text{speed}=\text{wavelength}\times\text{frequency}$$
-    From now on though, I'm going to refer to these variables with letters: speed will be represented as $u$, wavelength represented as $\lambda$, and frequency represented as $v$. Therefore the above formula would be:  $$u=\lambda\times v$$
-- Don't be intimidated by the symbols, just remember what they represent.
+    From now on though, I'm going to refer to these variables with letters: $u$ means speed, $\lambda$ means wavelength, and $v$ means frequency. Therefore the above formula would be:  $$u=\lambda\times v$$Don't be intimidated by the symbols, just remember what they represent.
 
 ___
 
@@ -35,13 +34,25 @@ Electromagnetic waves are very important, because they're used in so many parts 
 Now, I'm going to clear up a common misconception. The term "light" is often used colloquially as "visible light", but in the science world, all electromagnetic waves ARE light. This means that stuff like X-ray beams, microwave waves, those are all light too.
 
 Now, this is an electromagnetic wave. ![](img/electromagneticwave.png)
-<details>
-<summary>Technical bit: Why there are two waves (Optional)</summary>
-<br>
-As you saw in the picture, there are two waves: the electric field wave, and the magnetic field wave.
+It's a bit difficult to explain why there are two waves, and I don't quite understand it completely, but I think it's like this. A charged particle (like an electron)
+
+Now, you might know that the speed of light can be represented as the value $c$, which is around $3\times 10^8 \text{m/s}$ (300 million meters per second).
+
+Now, according to the formula for the speed of the wave, $u=\lambda\times v$. Since $u$ is speed, we can plug in $c$ into the speed to get a formula for the electromagnetic wave: $$\lambda\times v=c$$
+Let's try a sample problem that they might give you.
+
+> An electromagnetic wave has a frequency of $6.0\times 10^4\text{ Hz}$.
+> 
+> a) Does this frequency fall in the visible region? Give a reason for your answer.
+> b) Find the wavelength of this electromagnetic wave.
+
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
 </details>
 
-Now, you might know that the speed of light can be rep
+
 
 ## Key Takeaways
 
