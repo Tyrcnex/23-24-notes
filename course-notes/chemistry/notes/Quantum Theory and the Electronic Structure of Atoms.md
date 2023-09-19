@@ -66,7 +66,7 @@ Let's try a sample problem that they might give you.
 > $$\lambda=\frac{c}{v}=\frac{3\times10^8\text{ m/s}}{6\times10^4\text{ Hz}}$$
 > 
 > Now we need to do a little ✨dimensional analysis✨. Hz is measured in "inverse seconds", and so the $/s$ cancels out, and we get an answer in meters. We solve: $$\lambda=\frac{3\times10^8}{6\times10^4}\text{ m}=5\times10^3\text{ m}=5000\text{ m}$$
-> We have to use a conversion factor to convert from meters to nanometers. A meter is $10^9$ nanometers, so we multiply by $10^9$: $$\lambda=5\times10^3\times10^9\text{ nm}=\boxed{5\times 10^{12}\text{nm}}$$
+> We have to use a conversion factor to convert from meters to nanometers. A meter is $10^9$ nanometers, so we multiply by $10^9$: $$\lambda=5\times10^3\times10^9\text{ nm}=\boxed{5\times 10^{12}\text{ nm}}$$
 
 </details>
 
@@ -88,7 +88,7 @@ Ah, our good friend, the frequency. This equation (known as the **energy frequen
 > Plugging this value of $v$ into the energy frequency relationship turns into $$E=\frac{c\times h}{\lambda}$$
 > This form is, in some scenarios, more useful than the first form of the energy frequency relationship.
 
-Let's try solving a problem with this energy .
+Let's try solving a problem with this energy.
 
 > **Problem 2:** When copper is bombarded with high-energy electrons, X-rays are emitted. Calculate the energy (in joules) associated with each electron if the wavelength of the X-rays is 0.154 nm.
 
@@ -112,7 +112,7 @@ You might know Bohr's model of the atom: it's the most commonly known way to dra
 
 Now, I'm going to talk about energy levels and "excited" electrons. This topic usually involves a lot of math, but I'm going to skip that first and talk about what it really means.
 
-Usually an electron stays in its own ring (actually, it's called a **shell**). However, occasionally a particle
+Usually an electron stays in its own ring (actually, it's called a **shell**). However, when you subject an atom to high voltage, the electron starts to jiggle and wiggle. It gets "excited", and "jumps" to a higher shell. It's an important theory because 
 
 
 These rings are called **shells**, and the amount of energy that an electron has in each shell is called the **energy level**. As a rule of thumb, electrons like to stay closer to the nucleus (i.e. the center of the atom) because it uses *less energy to orbit*.
@@ -120,6 +120,8 @@ These rings are called **shells**, and the amount of energy that an electron has
 There is something called the **principal quantum number** that tells us which shell an electron is in. It is represented by the variable $n$. The innermost "ring", or shell, has $n=1$. The next ring has $n=2$, then the next ring has $n=3$, etc.
 
 Why is this number important? Well, it lets us determine the *energy level* of an electron given the shell it's in. In other words, given the shell (ring) that an electron is in, we can find how much energy the electron contains. The formula is as follows: $$E_n=-R_H\cdot\left(\frac{1}{n^2}\right)$$
+
+$$\Delta E=R_H\cdot\left(\frac{1}{n_i^2}-\frac{1}{n_f^2}\right)$$
 This equation sure looks scary, but you're really just plugging in values. 
 - $R_H$ is just another constant: it's equal to $2.18\times10^{-18}$ Joules, which makes sense because an electron is so small—it can't hold THAT much energy. 
 - Then, all you need to do is look at which shell the electron is and plug that into $n$. 
@@ -149,6 +151,14 @@ This math is getting boring, but there are some cool effects when you apply this
 
 %%add stuff on photoelectric effect here i dont quite understand it yet lol%%
 
+Wave length of electron/all particles = $\lambda=\frac{h}{mu}$
+When $m$ changes, $u$ changes too.
+
+Schrodinger wave equation describes the energy of an electron with a given $\psi$ and the probability of finding an electron in a volume of space.
+
+It can be solved exactly for the hydrogen atom but must approximate for other, multi-electron systems
+
+$\psi$ is a function of four numbers called quantum numbers $(n,l,m_l,m_s)$
 ## Key Takeaways
 
 

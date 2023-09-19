@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Template</title>
+    </head>
+    <body>
+        <script>
+            async function addFooter() {
+                const resp = await fetch("main.md");
+                const html = await resp.text();
+                document.body.innerHTML = html.replace(`\`\`\`html`,``).replace(`\`\`\``,``);
+            }
+            addFooter();
+        </script>
+    </body>
+</html>

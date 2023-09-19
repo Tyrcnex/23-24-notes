@@ -1,0 +1,2 @@
+$$\frac{d}{dx}\left[f(x)\cdot g(x)\right]=\lim_{h\to 0}\frac{f(x+h)g(x+h)\textcolor{red}{-f(x)g(x+h)+f(x)g(x+h)}-f(x)g(x)}{h}$$
+Factorize: $$\lim_{h\to 0}\frac{g(x+h)(f(x+h)-f(x))}{h}+\lim_{h\to 0}\frac{f(x)(g(x+h)-g(x))}{h}=\lim_{h\to 0}g(x+h)\cdot\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}+\lim_{h\to 0}f(x)\cdot\lim_{h\to 0}\frac{g(x+h)-g(x)}{h}=g(x)\cdot f'(x)+f(x)\cdot g'(x)$$
