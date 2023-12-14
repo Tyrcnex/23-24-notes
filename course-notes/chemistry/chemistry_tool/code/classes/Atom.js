@@ -614,4 +614,9 @@ class Atom {
     getAtomicMass() {
         return this.getAtomData().amu * this.number;
     }
+
+    // This function is just so the parser doesn't return an error
+    getMolarMass() {
+        return this.getAtomicMass();
+    }
 }

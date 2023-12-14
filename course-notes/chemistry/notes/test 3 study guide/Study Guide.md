@@ -10,7 +10,7 @@ Now, this "bias" towards one of the molecules is called a **dipole**. But now im
 
 ![](img/nonpolar.gif)
 
-If the atom doesn't "go" anywhere because the atoms cancel each other out when they tug, we call the entire molecule **non-polar**. However, in an atom like $\ce{CH_3OH}$, the dipoles are tugging everywhere, and at the end the molecules start moving. Check this animation:
+If the atom doesn't "go" anywhere because the atoms cancel each other out when they tug, we call the entire molecule **non-polar**. However, in an atom like $\ce{NH_3}$, the dipoles are tugging everywhere, and at the end the molecules start moving. Check this animation:
 
 ![polar](img/polar.gif)
 
@@ -42,7 +42,5 @@ Therefore our answer for this question will be **Hydrogen bonding and dispersion
 ## Gas Laws
 Gases in a container have a few variables you need to consider. These variables are **pressure, volume, temperature, and amount of gas**. Knowing these, there are a few laws you need to know.
 
-Let the pressure, volume, temperature, and amount of the first gas be
-
 ### Boyle's Law
-If the temperature and amount of gas are constant, then t
+If the temperature and amount of gas are constant, then we know that the pressures and volumes of two gases are **inversely proportional.** This means that, if the pressure and volume of the first gas are $P_1$ and $V_1$, and the pressure and volume of the second gas are $P_2$ and $V_2$, 
