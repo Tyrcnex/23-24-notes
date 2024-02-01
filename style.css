@@ -1,0 +1,22 @@
+@font-face { 
+    font-family: "Mona Sans"; 
+    src: url('./font/Mona-Sans.ttf'); 
+}
+
+@font-face { 
+    font-family: "Mona Sans"; 
+    src: url('./font/MonaSans-Bold.ttf'); 
+    font-weight: bold;
+}
+
+body {
+    padding: 100px;
+}
+
+* {
+    font-family: "Mona Sans", monospace;
+}
+
+h1 {
+    font-size: 100px;
+}
